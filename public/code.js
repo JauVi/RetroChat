@@ -2,6 +2,7 @@
 var socket = io('http://pellonvpn.ddns.net', {resource: 'nodejs'});
 var myColor = "";
 
+// Send message when pressin enter
 document.getElementById("message").addEventListener("keyup", function(event) {
     if (event.key === 'Enter') {
     event.preventDefault();
@@ -9,6 +10,7 @@ document.getElementById("message").addEventListener("keyup", function(event) {
     }
 });
 
+// Joining with nick when pressing enter
 document.getElementById("nick").addEventListener("keyup", function(event) {
     if (event.key === 'Enter') {
     event.preventDefault();
@@ -16,11 +18,13 @@ document.getElementById("nick").addEventListener("keyup", function(event) {
     }
 });
 
+// Adding chat message to page when received a 'chat' event 
 socket.on('chat', function(data) {
     console.log(data);
     printMessage(data.Message,data.Color);
 });
 
+// Hiding login dialog and enabling message sending when 'joined' event was received
 socket.on('joined', function(color) {
     myColor = color;
     document.getElementById("dialog").style.display ="none";
@@ -29,11 +33,13 @@ socket.on('joined', function(color) {
     printMessage("You have joined the chat. Type 'help?-' to see available commands",myColor);
 });
 
+// Printing message if nick was denied
 socket.on('denied', function(msg) {
     console.log(msg);
     document.getElementById("deniedText").innerText = "Nick was reserved!";
 });
 
+// Update of online users
 socket.on('users', function(Users) {
     console.log("Users" + Users);
     var text = "";
@@ -44,7 +50,8 @@ socket.on('users', function(Users) {
     }
 });
 
-function sendMessage(){
+// Checking user input for commands or chat message when clicking send 
+function sendClicked(){
     var message = document.getElementById("message").value;
     var nick = document.getElementById("nick").value;
     document.getElementById("message").value = "";
@@ -64,6 +71,7 @@ function sendMessage(){
     }
 }
 
+// Printing of message to page with color
 function printMessage(message,color){
     var text = document.getElementById("messagesList").innerHTML;
     text = text + "<div style=\"color:" + color + ";\">" + message + "</div>";
@@ -71,6 +79,7 @@ function printMessage(message,color){
     document.getElementById("messagesList").scrollTop = document.getElementById("messagesList").scrollHeight;
 }
 
+// Sending join event with desired nick to the server when clicked join
 function join(){
     var nick = document.getElementById("nick").value;
     if (nick.length > 0){
@@ -78,6 +87,7 @@ function join(){
     }
 }
 
+// Changing element colors to given
 function changeColor(color){
     var x = document.getElementsByClassName("greenBox");
     var i;
