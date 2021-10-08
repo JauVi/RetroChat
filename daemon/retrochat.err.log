@@ -1,0 +1,39 @@
+C:\NodeApps\RetroChat\node_modules\serve-static\index.js:40
+    throw new TypeError('root path required')
+    ^
+
+TypeError: root path required
+    at Function.serveStatic [as static] (C:\NodeApps\RetroChat\node_modules\serve-static\index.js:40:11)
+    at Object.<anonymous> (C:\NodeApps\RetroChat\index.js:8:17)
+    at Module._compile (internal/modules/cjs/loader.js:1072:14)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1101:10)
+    at Module.load (internal/modules/cjs/loader.js:937:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:778:12)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:76:12)
+    at internal/main/run_main_module.js:17:47
+C:\NodeApps\RetroChat\node_modules\serve-static\index.js:40
+    throw new TypeError('root path required')
+    ^
+
+TypeError: root path required
+    at Function.serveStatic [as static] (C:\NodeApps\RetroChat\node_modules\serve-static\index.js:40:11)
+    at Object.<anonymous> (C:\NodeApps\RetroChat\index.js:8:17)
+    at Module._compile (internal/modules/cjs/loader.js:1072:14)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1101:10)
+    at Module.load (internal/modules/cjs/loader.js:937:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:778:12)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:76:12)
+    at internal/main/run_main_module.js:17:47
+C:\NodeApps\RetroChat\node_modules\serve-static\index.js:40
+    throw new TypeError('root path required')
+    ^
+
+TypeError: root path required
+    at Function.serveStatic [as static] (C:\NodeApps\RetroChat\node_modules\serve-static\index.js:40:11)
+    at Object.<anonymous> (C:\NodeApps\RetroChat\index.js:8:17)
+    at Module._compile (internal/modules/cjs/loader.js:1072:14)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1101:10)
+    at Module.load (internal/modules/cjs/loader.js:937:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:778:12)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:76:12)
+    at internal/main/run_main_module.js:17:47

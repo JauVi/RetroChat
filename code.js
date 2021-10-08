@@ -16,12 +16,6 @@ document.getElementById("nick").addEventListener("keyup", function(event) {
     }
 });
 
-window.addEventListener('beforeunload', function (event) {
-    event.preventDefault();
-    var nick = document.getElementById("nick").value;
-    socket.emit('leave', nick);
-});
-
 socket.on('chat', function(data) {
     console.log(data);
     printMessage(data.Message,data.Color);

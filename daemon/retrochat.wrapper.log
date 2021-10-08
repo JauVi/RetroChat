@@ -1,2 +1,20 @@
 2021-10-08 08.39.10 - Starting C:\Program Files\nodejs\node.exe  --harmony c:\NodeApps\RetroChat\node_modules\node-windows\lib\wrapper.js --file C:\NodeApps\RetroChat\index.js --scriptoptions= --log "RetroChat wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
 2021-10-08 08.39.10 - Started 48592
+2021-10-08 08.57.04 - Stopping retrochat.exe
+2021-10-08 08.57.04 - ProcessKill 48592
+2021-10-08 08.57.04 - Found child process: 43048 Name: conhost.exe
+2021-10-08 08.57.04 - Found child process: 49044 Name: node.exe
+2021-10-08 08.57.04 - Stopping process 43048
+2021-10-08 08.57.04 - Send SIGINT 43048
+2021-10-08 08.57.04 - SIGINT to 43048 failed - Killing as fallback
+2021-10-08 08.57.04 - Stopping process 49044
+2021-10-08 08.57.04 - Send SIGINT 49044
+2021-10-08 08.57.04 - SIGINT to 49044 failed - Killing as fallback
+2021-10-08 08.57.04 - Stopping process 48592
+2021-10-08 08.57.04 - Send SIGINT 48592
+2021-10-08 08.57.04 - SIGINT to 48592 failed - Killing as fallback
+2021-10-08 08.57.04 - Finished retrochat.exe
+2021-10-08 08.57.05 - Starting C:\Program Files\nodejs\node.exe  --harmony c:\NodeApps\RetroChat\node_modules\node-windows\lib\wrapper.js --file C:\NodeApps\RetroChat\index.js --scriptoptions= --log "RetroChat wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2021-10-08 08.57.05 - Started 28252
+2021-10-08 08.58.47 - Starting C:\Program Files\nodejs\node.exe  --harmony c:\NodeApps\RetroChat\node_modules\node-windows\lib\wrapper.js --file C:\NodeApps\RetroChat\index.js --scriptoptions= --log "RetroChat wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2021-10-08 08.58.47 - Started 26336
