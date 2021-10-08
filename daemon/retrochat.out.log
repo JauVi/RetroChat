@@ -1,0 +1,12 @@
+listening on port: 8080
+A user connected, id: Eeol4cDYMrXUicafAAAB
+RetroChat
+hsl(169,100%,50%)
+User: RetroChat joined
+{
+  Nick: 'RetroChat',
+  Socket: 'Eeol4cDYMrXUicafAAAB',
+  Color: 'hsl(335,100%,50%)'
+}
+RetroChat with socket id Eeol4cDYMrXUicafAAAB left the chat
+A user connected, id: 4J84G4-KYaYhW-XdAAAD
