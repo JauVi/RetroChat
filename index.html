@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <title>RetroChat</title>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <link rel="stylesheet" href="style.css">
+    </head>
+    <body>
+        <main>
+            <header style="grid-area: top" class="greenBox padded">
+                <h1>..:: RetroChat ::..</h1>
+            </header>
+            <aside style="grid-area: left" class="greenBox padded">
+                <h3>Users</h3>
+                <div id="onlineList"></div>
+            </aside>
+            <section style="grid-area: right" class="greenBox padded">
+                <h3>Messages</h3>
+                <div id="messagesList"></div>
+            </section>
+            <footer style="grid-area: bottom" class="greenBox padded">
+                <label for="message">Message:</label>
+                <input type="text" id="message" class="greenBox" disabled>
+                <button id="send" class="greenBox" onclick="sendMessage()" disabled>Send</button>
+            </footer>
+        </main>
+        <div id="dialog" class="greenBox padded">
+            <h2>Welcome to RetroChat!</h2>
+            <h3>Join with a nickname</h3>
+            <input type="text" id="nick" class="greenBox">
+            <button class="greenBox" id="join" onclick="join()">Join Chat</button>
+            <!-- Text for nickname taken if needed! -->
+            <h3 id="deniedText"></h3>
+        </div>
+        <script src="/socket.io/socket.io.js"></script>
+        <script src="code.js"></script>
+    </body>
+</html>
