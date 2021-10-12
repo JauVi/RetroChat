@@ -10,3 +10,375 @@ User: RetroChat joined
 }
 RetroChat with socket id Eeol4cDYMrXUicafAAAB left the chat
 A user connected, id: 4J84G4-KYaYhW-XdAAAD
+listening on port: 8080
+A user connected, id: a_2dgGiSN7l4NwtJAAAB
+A user connected, id: 6NSQ3-gbhX9vrzhnAAAD
+asasdd
+hsl(320,100%,50%)
+User: asasdd joined
+{
+  Nick: 'asasdd',
+  Socket: '6NSQ3-gbhX9vrzhnAAAD',
+  Color: 'hsl(204,100%,50%)'
+}
+asasdd with socket id 6NSQ3-gbhX9vrzhnAAAD left the chat
+A user connected, id: LdgLGWK5qbvhbIzgAAAF
+Chattaaja
+hsl(6,100%,50%)
+User: Chattaaja joined
+{
+  Nick: 'Chattaaja',
+  Socket: 'LdgLGWK5qbvhbIzgAAAF',
+  Color: 'hsl(56,100%,50%)'
+}
+A user connected, id: MMVIW1Jeru4dieW1AAAH
+Sättääjä
+hsl(198,100%,50%)
+User: Sättääjä joined
+{
+  Nick: 'Chattaaja',
+  Socket: 'LdgLGWK5qbvhbIzgAAAF',
+  Color: 'hsl(56,100%,50%)'
+}
+{
+  Nick: 'Sättääjä',
+  Socket: 'MMVIW1Jeru4dieW1AAAH',
+  Color: 'hsl(359,100%,50%)'
+}
+Sättääjä
+Sättääjä wrote: No terve
+hsl(359,100%,50%)
+Chattaaja
+Chattaaja wrote: No miten menee
+hsl(56,100%,50%)
+Sättääjä
+Sättääjä wrote: Paskasti
+hsl(359,100%,50%)
+Sättääjä with socket id MMVIW1Jeru4dieW1AAAH left the chat
+{
+  Nick: 'Chattaaja',
+  Socket: 'LdgLGWK5qbvhbIzgAAAF',
+  Color: 'hsl(56,100%,50%)'
+}
+A user connected, id: sps9x5_hinRWJnz2AAAJ
+A user connected, id: PwhYLLVAX52EnZhhAAAM
+Sättääjä
+Sättääjä wrote: 
+
+Chattaaja with socket id LdgLGWK5qbvhbIzgAAAF left the chat
+A user connected, id: IDCxOC7_9FnJkNV3AAAO
+A user connected, id: 1-VnaFDyWlS1R3XLAAAQ
+Perkele
+hsl(250,100%,50%)
+User: Perkele joined
+{
+  Nick: 'Perkele',
+  Socket: '1-VnaFDyWlS1R3XLAAAQ',
+  Color: 'hsl(359,100%,50%)'
+}
+Perkele with socket id 1-VnaFDyWlS1R3XLAAAQ left the chat
+A user connected, id: bdnCCuDG6buVx-MUAAAS
+Jartsa
+hsl(200,100%,50%)
+User: Jartsa joined
+{
+  Nick: 'Jartsa',
+  Socket: 'bdnCCuDG6buVx-MUAAAS',
+  Color: 'hsl(180,100%,50%)'
+}
+A user connected, id: xpiMkCdowO3sxO1QAAAU
+A user connected, id: ywUVDC2sJg3D7do_AAAW
+A user connected, id: 3GLYWKu59WOZ3nVSAAAY
+MrBurns
+hsl(71,100%,50%)
+User: MrBurns joined
+{
+  Nick: 'Jartsa',
+  Socket: 'bdnCCuDG6buVx-MUAAAS',
+  Color: 'hsl(180,100%,50%)'
+}
+{
+  Nick: 'MrBurns',
+  Socket: '3GLYWKu59WOZ3nVSAAAY',
+  Color: 'hsl(253,100%,50%)'
+}
+A user connected, id: 0x8fcaqDb8SLykyfAAAa
+MrBurns
+MrBurns wrote: Hieno chatti. Oliko tälle joku valmis palikka?
+hsl(253,100%,50%)
+A user connected, id: -CH_-QPKEjEJJWkkAAAc
+A user connected, id: iC0Tjg3bd7NGzZ6TAAAe
+Jartsa
+Jartsa wrote: Katos vaan
+hsl(180,100%,50%)
+Jartsa
+Jartsa wrote: Oli ja ei
+hsl(180,100%,50%)
+Jartsa
+Jartsa wrote: Kaikkihan ne jossain määrin on valmiita
+hsl(180,100%,50%)
+Jartsa
+Jartsa wrote: socket.io hoitaa websocket kommunikaation
+hsl(180,100%,50%)
+Jartsa
+Jartsa wrote: https://socket.io/
+hsl(180,100%,50%)
+Jartsa
+Jartsa wrote: Niin hyvä ei oo että toimis linkkinä :D
+hsl(180,100%,50%)
+Jartsa
+Jartsa wrote: Mutta aikalailla nollasta tämä on väsätty
+hsl(180,100%,50%)
+MrBurns
+MrBurns wrote: Justiinsa. Nice!
+hsl(253,100%,50%)
+A user connected, id: XjuShGkV-cCrP4RWAAAg
+A user connected, id: U5e_T5XR_i1gRtchAAAi
+Jartsa
+Jartsa wrote: Tämä on siis tuon webbikurssin harkkatyö
+hsl(180,100%,50%)
+A user connected, id: s_T5G4IJHkWjiXpsAAAk
+A user connected, id: AHIff-ZYLmuQ6e5VAAAm
+A user connected, id: 8NPO9eUIxz746TiBAAAo
+A user connected, id: 3zPrJ9tnfaehd1qzAAAq
+A user connected, id: 1atllMPVSDH7PW5UAAAs
+A user connected, id: GK5bPgjsk_N9W_SNAAAu
+A user connected, id: m3et-IR0ZXrRM81BAAAw
+A user connected, id: JkjzWYcL-5tfRh1wAAAy
+Matias
+hsl(278,100%,50%)
+User: Matias joined
+{
+  Nick: 'Jartsa',
+  Socket: 'bdnCCuDG6buVx-MUAAAS',
+  Color: 'hsl(180,100%,50%)'
+}
+{
+  Nick: 'MrBurns',
+  Socket: '3GLYWKu59WOZ3nVSAAAY',
+  Color: 'hsl(253,100%,50%)'
+}
+{
+  Nick: 'Matias',
+  Socket: 'JkjzWYcL-5tfRh1wAAAy',
+  Color: 'hsl(135,100%,50%)'
+}
+A user connected, id: lpg7OSfRL04kU83lAAA0
+Jee
+hsl(199,100%,50%)
+User: Jee joined
+{
+  Nick: 'Jartsa',
+  Socket: 'bdnCCuDG6buVx-MUAAAS',
+  Color: 'hsl(180,100%,50%)'
+}
+{
+  Nick: 'MrBurns',
+  Socket: '3GLYWKu59WOZ3nVSAAAY',
+  Color: 'hsl(253,100%,50%)'
+}
+{
+  Nick: 'Matias',
+  Socket: 'JkjzWYcL-5tfRh1wAAAy',
+  Color: 'hsl(135,100%,50%)'
+}
+{
+  Nick: 'Jee',
+  Socket: 'lpg7OSfRL04kU83lAAA0',
+  Color: 'hsl(195,100%,50%)'
+}
+A user connected, id: mSrblEUCkurIvnfEAAA2
+Jartsa
+Jartsa wrote: Tästähän tämä lähtee nousuun tämä tsätti
+hsl(180,100%,50%)
+Jartsa
+Jartsa wrote: :D
+hsl(180,100%,50%)
+Jee with socket id lpg7OSfRL04kU83lAAA0 left the chat
+{
+  Nick: 'Jartsa',
+  Socket: 'bdnCCuDG6buVx-MUAAAS',
+  Color: 'hsl(180,100%,50%)'
+}
+{
+  Nick: 'MrBurns',
+  Socket: '3GLYWKu59WOZ3nVSAAAY',
+  Color: 'hsl(253,100%,50%)'
+}
+{
+  Nick: 'Matias',
+  Socket: 'JkjzWYcL-5tfRh1wAAAy',
+  Color: 'hsl(135,100%,50%)'
+}
+Matias
+Matias wrote: Aika köppäänen
+hsl(135,100%,50%)
+Jartsa
+Jartsa wrote: :D
+hsl(180,100%,50%)
+Matias with socket id JkjzWYcL-5tfRh1wAAAy left the chat
+{
+  Nick: 'Jartsa',
+  Socket: 'bdnCCuDG6buVx-MUAAAS',
+  Color: 'hsl(180,100%,50%)'
+}
+{
+  Nick: 'MrBurns',
+  Socket: '3GLYWKu59WOZ3nVSAAAY',
+  Color: 'hsl(253,100%,50%)'
+}
+Jartsa with socket id bdnCCuDG6buVx-MUAAAS left the chat
+{
+  Nick: 'MrBurns',
+  Socket: '3GLYWKu59WOZ3nVSAAAY',
+  Color: 'hsl(253,100%,50%)'
+}
+A user connected, id: UtTjVL24W2DJ0Q19AAA4
+A user connected, id: sjRp4hoPNWX_5kIbAAA6
+A user connected, id: UMPHP2xlvDe2-PoGAAA8
+adaf
+hsl(115,100%,50%)
+User: adaf joined
+{
+  Nick: 'MrBurns',
+  Socket: '3GLYWKu59WOZ3nVSAAAY',
+  Color: 'hsl(253,100%,50%)'
+}
+{
+  Nick: 'adaf',
+  Socket: 'UtTjVL24W2DJ0Q19AAA4',
+  Color: 'hsl(354,100%,50%)'
+}
+adaf with socket id UtTjVL24W2DJ0Q19AAA4 left the chat
+{
+  Nick: 'MrBurns',
+  Socket: '3GLYWKu59WOZ3nVSAAAY',
+  Color: 'hsl(253,100%,50%)'
+}
+A user connected, id: QEjtkUF3PnuAzg_5AAA-
+MrBurns with socket id 3GLYWKu59WOZ3nVSAAAY left the chat
+A user connected, id: U4w3ISZmmwga8mILAABA
+A user connected, id: gWObrEWf0UPyPDX6AABC
+A user connected, id: AOIye0wa4o1zZk4kAABE
+Jartsa
+hsl(313,100%,50%)
+User: Jartsa joined
+{
+  Nick: 'Jartsa',
+  Socket: 'AOIye0wa4o1zZk4kAABE',
+  Color: 'hsl(2,100%,50%)'
+}
+A user connected, id: 9Nu0OLk1jU7iA5GFAABG
+Jartsa with socket id AOIye0wa4o1zZk4kAABE left the chat
+A user connected, id: w6fnyL8AdmUKnwrDAABI
+A user connected, id: aJLUrYDa6K_ZsRPsAABK
+A user connected, id: VNTGHCD4v2Bzr7aBAABM
+A user connected, id: YtHNEjO3E_ecW03PAABO
+Jari
+hsl(237,100%,50%)
+User: Jari joined
+{
+  Nick: 'Jari',
+  Socket: 'aJLUrYDa6K_ZsRPsAABK',
+  Color: 'hsl(21,100%,50%)'
+}
+Ilona
+hsl(55,100%,50%)
+User: Ilona joined
+{
+  Nick: 'Jari',
+  Socket: 'aJLUrYDa6K_ZsRPsAABK',
+  Color: 'hsl(21,100%,50%)'
+}
+{
+  Nick: 'Ilona',
+  Socket: 'VNTGHCD4v2Bzr7aBAABM',
+  Color: 'hsl(193,100%,50%)'
+}
+Jari
+Jari wrote: Pööpöö
+hsl(21,100%,50%)
+Ilona
+Ilona wrote: Moi
+hsl(193,100%,50%)
+Hankumansku
+hsl(34,100%,50%)
+User: Hankumansku joined
+{
+  Nick: 'Jari',
+  Socket: 'aJLUrYDa6K_ZsRPsAABK',
+  Color: 'hsl(21,100%,50%)'
+}
+{
+  Nick: 'Ilona',
+  Socket: 'VNTGHCD4v2Bzr7aBAABM',
+  Color: 'hsl(193,100%,50%)'
+}
+{
+  Nick: 'Hankumansku',
+  Socket: 'YtHNEjO3E_ecW03PAABO',
+  Color: 'hsl(161,100%,50%)'
+}
+Ilona
+Ilona wrote: help? - 
+hsl(193,100%,50%)
+Jari
+Jari wrote: command color: 255,0,0
+hsl(21,100%,50%)
+Jari
+Jari wrote: hyvin toimii
+hsl(21,100%,50%)
+Hankumansku with socket id YtHNEjO3E_ecW03PAABO left the chat
+{
+  Nick: 'Jari',
+  Socket: 'aJLUrYDa6K_ZsRPsAABK',
+  Color: 'hsl(21,100%,50%)'
+}
+{
+  Nick: 'Ilona',
+  Socket: 'VNTGHCD4v2Bzr7aBAABM',
+  Color: 'hsl(193,100%,50%)'
+}
+Ilona
+Ilona wrote: Kukkuu
+hsl(193,100%,50%)
+Ilona
+Ilona wrote: Kukkuu
+hsl(193,100%,50%)
+Ilona with socket id VNTGHCD4v2Bzr7aBAABM left the chat
+{
+  Nick: 'Jari',
+  Socket: 'aJLUrYDa6K_ZsRPsAABK',
+  Color: 'hsl(21,100%,50%)'
+}
+Jari with socket id aJLUrYDa6K_ZsRPsAABK left the chat
+A user connected, id: e_kDV09rVnkxfr0pAABQ
+A user connected, id: iMhBhakAFhtuKGfjAABS
+A user connected, id: z-XR_xDjQLQRv1l9AABU
+JauVi
+hsl(15,100%,50%)
+User: JauVi joined
+{
+  Nick: 'JauVi',
+  Socket: 'z-XR_xDjQLQRv1l9AABU',
+  Color: 'hsl(277,100%,50%)'
+}
+JauVi
+JauVi wrote: Jjdkjsksk
+hsl(277,100%,50%)
+JauVi with socket id z-XR_xDjQLQRv1l9AABU left the chat
+A user connected, id: USrs-mzrNTSHweEFAABW
+Jari
+hsl(348,100%,50%)
+User: Jari joined
+{
+  Nick: 'Jari',
+  Socket: 'USrs-mzrNTSHweEFAABW',
+  Color: 'hsl(157,100%,50%)'
+}
+Jari
+Jari wrote: Kdkkdkdj
+hsl(157,100%,50%)
+Jari with socket id USrs-mzrNTSHweEFAABW left the chat
+listening on port: 8080
+A user connected, id: TtotIUAjYmQ57ze6AAAB

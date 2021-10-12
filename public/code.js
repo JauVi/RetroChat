@@ -59,7 +59,7 @@ function sendClicked(){
     console.log(message.substr(0, 15));
     if (message.substr(0, 15) == "help?-"){
         printMessage("Start every command with 'command: ' after that, give the command.",myColor);
-        printMessage("'command: color: r,g,b' changes the color theme according to the given values." ,myColor);
+        printMessage("'command: color r,g,b' changes the color theme according to the given values." ,myColor);
     }
     else if (message.substr(0, 15) == "command: color "){
         changeColor(message.substr(15, 11));

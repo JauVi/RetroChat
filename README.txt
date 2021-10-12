@@ -21,3 +21,6 @@ Mitä vaikeuksia kohtasit ja miten niistä selvisit?
     Noihin mittoihin tuo ensimmäinenkin ongelma liittyi mutta juuri nyt en muista mitä kaikkea kokeilin ja mikä siinä oli lopulta ratkaisevaa.
     Pitäisi kokeilla pelkästään tuota asiaa testailla ja selvittää ittelle että mikäs se ongelma tasan tarkkaan oli mutta selvitetään
     sitten joskus jos se tulee uusiksi eteen, nyt on muutakin tekemistä.
+
+    toimintalogiikka syntyi siinä samalla miettiessä ja siinä ei ollut mitään suurta ongelmaa. Socket.IO:n käyttö oli esimerkkien avulla suht helppoa
+    mutta myönnettävä on, että serveripäässä syvällisemminkin voisin tietää, että miten tuo homma toimii.
