@@ -1,11 +1,14 @@
 {
-  "name": "socket-chat-example",
+  "name": "RetroChat",
   "version": "0.0.1",
-  "description": "my first socket.io app",
+  "description": "Chat for old semi nerds",
   "dependencies": {
     "express": "^4.17.1",
     "mysql": "^2.18.1",
     "node-windows": "^1.0.0-beta.6",
     "socket.io": "^4.2.0"
+  },
+  "scripts":{
+    "start": "node index.js"
   }
 }

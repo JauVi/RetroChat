@@ -4,6 +4,7 @@ const http = require('http');
 const server = http.createServer(app);
 const { Server } = require("socket.io");
 const io = new Server(server);
+const port = process.env.PORT || 5000;
 
 // Default route for all other requests like images and so on
 app.use(express.static("public"));
@@ -109,7 +110,7 @@ io.engine.on("connection_error", (err) => {
 });
 
 // Starting server
-server.listen(8080, () => {
+server.listen(port, () => {
   console.log('listening on port: 8080');
 });
 
