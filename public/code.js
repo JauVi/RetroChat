@@ -1,5 +1,5 @@
 
-var socket = io('http://jknetwork.asuscomm.com', {resource: 'nodejs'});
+var socket = io('http://https://retrochatjk.herokuapp.com', {resource: 'nodejs'});
 var myColor = "";
 
 // Send message when pressin enter
