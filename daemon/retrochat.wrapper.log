@@ -22,3 +22,409 @@
 2021-10-10 18.48.20 - Started 7644
 2021-10-11 17.32.58 - Starting C:\Program Files\nodejs\node.exe  --harmony c:\NodeApps\RetroChat\node_modules\node-windows\lib\wrapper.js --file C:\NodeApps\RetroChat\index.js --scriptoptions= --log "RetroChat wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
 2021-10-11 17.32.58 - Started 7240
+2021-10-13 17.43.50 - Stopping retrochat.exe
+2021-10-13 17.43.50 - ProcessKill 7240
+2021-10-13 17.43.50 - Shutdown exception
+Message:Järjestelmän sammutus on käynnissä.
+
+Stacktrace:   kohteessa System.Runtime.InteropServices.Marshal.ThrowExceptionForHRInternal(Int32 errorCode, IntPtr errorInfo)
+   kohteessa System.Management.ManagementScope.InitializeGuts(Object o)
+   kohteessa System.Management.ManagementScope.Initialize()
+   kohteessa System.Management.ManagementObjectSearcher.Initialize()
+   kohteessa System.Management.ManagementObjectSearcher.Get()
+   kohteessa winsw.WrapperService.GetChildPids(Int32 pid)
+   kohteessa winsw.WrapperService.StopProcessAndChildren(Int32 pid)
+   kohteessa winsw.WrapperService.StopIt()
+   kohteessa winsw.WrapperService.OnShutdown()
+2021-10-13 17.44.26 - Starting C:\Program Files\nodejs\node.exe  --harmony c:\NodeApps\RetroChat\node_modules\node-windows\lib\wrapper.js --file C:\NodeApps\RetroChat\index.js --scriptoptions= --log "RetroChat wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2021-10-13 17.44.26 - Started 7360
+2021-10-20 08.41.13 - Starting C:\Program Files\nodejs\node.exe  --harmony c:\NodeApps\RetroChat\node_modules\node-windows\lib\wrapper.js --file C:\NodeApps\RetroChat\index.js --scriptoptions= --log "RetroChat wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2021-10-20 08.41.13 - Started 7340
+2021-10-22 10.21.41 - Stopping retrochat.exe
+2021-10-22 10.21.41 - ProcessKill 7340
+2021-10-22 10.21.41 - Shutdown exception
+Message:Järjestelmän sammutus on käynnissä.
+
+Stacktrace:   kohteessa System.Runtime.InteropServices.Marshal.ThrowExceptionForHRInternal(Int32 errorCode, IntPtr errorInfo)
+   kohteessa System.Management.ManagementScope.InitializeGuts(Object o)
+   kohteessa System.Management.ManagementScope.Initialize()
+   kohteessa System.Management.ManagementObjectSearcher.Initialize()
+   kohteessa System.Management.ManagementObjectSearcher.Get()
+   kohteessa winsw.WrapperService.GetChildPids(Int32 pid)
+   kohteessa winsw.WrapperService.StopProcessAndChildren(Int32 pid)
+   kohteessa winsw.WrapperService.StopIt()
+   kohteessa winsw.WrapperService.OnShutdown()
+2021-10-22 10.22.15 - Starting C:\Program Files\nodejs\node.exe  --harmony c:\NodeApps\RetroChat\node_modules\node-windows\lib\wrapper.js --file C:\NodeApps\RetroChat\index.js --scriptoptions= --log "RetroChat wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2021-10-22 10.22.15 - Started 7348
+2021-10-25 08.31.30 - Starting C:\Program Files\nodejs\node.exe  --harmony c:\NodeApps\RetroChat\node_modules\node-windows\lib\wrapper.js --file C:\NodeApps\RetroChat\index.js --scriptoptions= --log "RetroChat wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2021-10-25 08.31.30 - Started 7156
+2021-11-02 10.23.20 - Stopping retrochat.exe
+2021-11-02 10.23.20 - ProcessKill 7156
+2021-11-02 10.23.20 - Shutdown exception
+Message:Järjestelmän sammutus on käynnissä.
+
+Stacktrace:   kohteessa System.Runtime.InteropServices.Marshal.ThrowExceptionForHRInternal(Int32 errorCode, IntPtr errorInfo)
+   kohteessa System.Management.ManagementScope.InitializeGuts(Object o)
+   kohteessa System.Management.ManagementScope.Initialize()
+   kohteessa System.Management.ManagementObjectSearcher.Initialize()
+   kohteessa System.Management.ManagementObjectSearcher.Get()
+   kohteessa winsw.WrapperService.GetChildPids(Int32 pid)
+   kohteessa winsw.WrapperService.StopProcessAndChildren(Int32 pid)
+   kohteessa winsw.WrapperService.StopIt()
+   kohteessa winsw.WrapperService.OnShutdown()
+2021-11-02 10.50.35 - Starting C:\Program Files\nodejs\node.exe  --harmony c:\NodeApps\RetroChat\node_modules\node-windows\lib\wrapper.js --file C:\NodeApps\RetroChat\index.js --scriptoptions= --log "RetroChat wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2021-11-02 10.50.35 - Started 7424
+2021-11-10 18.38.25 - Stopping retrochat.exe
+2021-11-10 18.38.25 - ProcessKill 7424
+2021-11-10 18.38.26 - Shutdown exception
+Message:Järjestelmän sammutus on käynnissä.
+
+Stacktrace:   kohteessa System.Runtime.InteropServices.Marshal.ThrowExceptionForHRInternal(Int32 errorCode, IntPtr errorInfo)
+   kohteessa System.Management.ManagementScope.InitializeGuts(Object o)
+   kohteessa System.Management.ManagementScope.Initialize()
+   kohteessa System.Management.ManagementObjectSearcher.Initialize()
+   kohteessa System.Management.ManagementObjectSearcher.Get()
+   kohteessa winsw.WrapperService.GetChildPids(Int32 pid)
+   kohteessa winsw.WrapperService.StopProcessAndChildren(Int32 pid)
+   kohteessa winsw.WrapperService.StopIt()
+   kohteessa winsw.WrapperService.OnShutdown()
+2021-11-10 18.39.10 - Starting C:\Program Files\nodejs\node.exe  --harmony c:\NodeApps\RetroChat\node_modules\node-windows\lib\wrapper.js --file C:\NodeApps\RetroChat\index.js --scriptoptions= --log "RetroChat wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2021-11-10 18.39.10 - Started 7512
+2021-11-23 10.38.27 - Starting C:\Program Files\nodejs\node.exe  --harmony c:\NodeApps\RetroChat\node_modules\node-windows\lib\wrapper.js --file C:\NodeApps\RetroChat\index.js --scriptoptions= --log "RetroChat wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2021-11-23 10.38.27 - Started 8664
+2021-11-28 13.45.12 - Starting C:\Program Files\nodejs\node.exe  --harmony c:\NodeApps\RetroChat\node_modules\node-windows\lib\wrapper.js --file C:\NodeApps\RetroChat\index.js --scriptoptions= --log "RetroChat wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2021-11-28 13.45.12 - Started 7904
+2021-11-29 09.14.20 - Starting C:\Program Files\nodejs\node.exe  --harmony c:\NodeApps\RetroChat\node_modules\node-windows\lib\wrapper.js --file C:\NodeApps\RetroChat\index.js --scriptoptions= --log "RetroChat wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2021-11-29 09.14.20 - Started 7316
+2021-11-29 21.41.50 - Stopping retrochat.exe
+2021-11-29 21.41.50 - ProcessKill 7316
+2021-11-29 21.41.50 - Shutdown exception
+Message:Järjestelmän sammutus on käynnissä.
+
+Stacktrace:   kohteessa System.Runtime.InteropServices.Marshal.ThrowExceptionForHRInternal(Int32 errorCode, IntPtr errorInfo)
+   kohteessa System.Management.ManagementScope.InitializeGuts(Object o)
+   kohteessa System.Management.ManagementScope.Initialize()
+   kohteessa System.Management.ManagementObjectSearcher.Initialize()
+   kohteessa System.Management.ManagementObjectSearcher.Get()
+   kohteessa winsw.WrapperService.GetChildPids(Int32 pid)
+   kohteessa winsw.WrapperService.StopProcessAndChildren(Int32 pid)
+   kohteessa winsw.WrapperService.StopIt()
+   kohteessa winsw.WrapperService.OnShutdown()
+2021-11-29 21.42.22 - Starting C:\Program Files\nodejs\node.exe  --harmony c:\NodeApps\RetroChat\node_modules\node-windows\lib\wrapper.js --file C:\NodeApps\RetroChat\index.js --scriptoptions= --log "RetroChat wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2021-11-29 21.42.22 - Started 7372
+2021-12-02 07.37.27 - Starting C:\Program Files\nodejs\node.exe  --harmony c:\NodeApps\RetroChat\node_modules\node-windows\lib\wrapper.js --file C:\NodeApps\RetroChat\index.js --scriptoptions= --log "RetroChat wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2021-12-02 07.37.27 - Started 7964
+2021-12-02 08.02.24 - Stopping retrochat.exe
+2021-12-02 08.02.24 - ProcessKill 7964
+2021-12-02 08.02.24 - Shutdown exception
+Message:Järjestelmän sammutus on käynnissä.
+
+Stacktrace:   kohteessa System.Runtime.InteropServices.Marshal.ThrowExceptionForHRInternal(Int32 errorCode, IntPtr errorInfo)
+   kohteessa System.Management.ManagementScope.InitializeGuts(Object o)
+   kohteessa System.Management.ManagementScope.Initialize()
+   kohteessa System.Management.ManagementObjectSearcher.Initialize()
+   kohteessa System.Management.ManagementObjectSearcher.Get()
+   kohteessa winsw.WrapperService.GetChildPids(Int32 pid)
+   kohteessa winsw.WrapperService.StopProcessAndChildren(Int32 pid)
+   kohteessa winsw.WrapperService.StopIt()
+   kohteessa winsw.WrapperService.OnShutdown()
+2021-12-02 08.06.59 - Starting C:\Program Files\nodejs\node.exe  --harmony c:\NodeApps\RetroChat\node_modules\node-windows\lib\wrapper.js --file C:\NodeApps\RetroChat\index.js --scriptoptions= --log "RetroChat wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2021-12-02 08.06.59 - Started 7616
+2021-12-02 08.10.27 - Starting C:\Program Files\nodejs\node.exe  --harmony c:\NodeApps\RetroChat\node_modules\node-windows\lib\wrapper.js --file C:\NodeApps\RetroChat\index.js --scriptoptions= --log "RetroChat wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2021-12-02 08.10.28 - Started 6980
+2021-12-02 15.13.50 - Starting C:\Program Files\nodejs\node.exe  --harmony c:\NodeApps\RetroChat\node_modules\node-windows\lib\wrapper.js --file C:\NodeApps\RetroChat\index.js --scriptoptions= --log "RetroChat wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2021-12-02 15.13.50 - Started 7184
+2021-12-07 09.09.40 - Starting C:\Program Files\nodejs\node.exe  --harmony c:\NodeApps\RetroChat\node_modules\node-windows\lib\wrapper.js --file C:\NodeApps\RetroChat\index.js --scriptoptions= --log "RetroChat wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2021-12-07 09.09.40 - Started 7400
+2021-12-13 16.38.15 - Starting C:\Program Files\nodejs\node.exe  --harmony c:\NodeApps\RetroChat\node_modules\node-windows\lib\wrapper.js --file C:\NodeApps\RetroChat\index.js --scriptoptions= --log "RetroChat wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2021-12-13 16.38.15 - Started 7696
+2021-12-15 18.30.28 - Stopping retrochat.exe
+2021-12-15 18.30.28 - ProcessKill 7696
+2021-12-15 18.30.28 - Shutdown exception
+Message:Järjestelmän sammutus on käynnissä.
+
+Stacktrace:   kohteessa System.Runtime.InteropServices.Marshal.ThrowExceptionForHRInternal(Int32 errorCode, IntPtr errorInfo)
+   kohteessa System.Management.ManagementScope.InitializeGuts(Object o)
+   kohteessa System.Management.ManagementScope.Initialize()
+   kohteessa System.Management.ManagementObjectSearcher.Initialize()
+   kohteessa System.Management.ManagementObjectSearcher.Get()
+   kohteessa winsw.WrapperService.GetChildPids(Int32 pid)
+   kohteessa winsw.WrapperService.StopProcessAndChildren(Int32 pid)
+   kohteessa winsw.WrapperService.StopIt()
+   kohteessa winsw.WrapperService.OnShutdown()
+2021-12-15 18.31.00 - Starting C:\Program Files\nodejs\node.exe  --harmony c:\NodeApps\RetroChat\node_modules\node-windows\lib\wrapper.js --file C:\NodeApps\RetroChat\index.js --scriptoptions= --log "RetroChat wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2021-12-15 18.31.00 - Started 6924
+2021-12-31 23.53.06 - Starting C:\Program Files\nodejs\node.exe  --harmony c:\NodeApps\RetroChat\node_modules\node-windows\lib\wrapper.js --file C:\NodeApps\RetroChat\index.js --scriptoptions= --log "RetroChat wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2021-12-31 23.53.06 - Started 8396
+2022-01-07 17.52.48 - Stopping retrochat.exe
+2022-01-07 17.52.48 - ProcessKill 8396
+2022-01-07 17.52.48 - Shutdown exception
+Message:Järjestelmän sammutus on käynnissä.
+
+Stacktrace:   kohteessa System.Runtime.InteropServices.Marshal.ThrowExceptionForHRInternal(Int32 errorCode, IntPtr errorInfo)
+   kohteessa System.Management.ManagementScope.InitializeGuts(Object o)
+   kohteessa System.Management.ManagementScope.Initialize()
+   kohteessa System.Management.ManagementObjectSearcher.Initialize()
+   kohteessa System.Management.ManagementObjectSearcher.Get()
+   kohteessa winsw.WrapperService.GetChildPids(Int32 pid)
+   kohteessa winsw.WrapperService.StopProcessAndChildren(Int32 pid)
+   kohteessa winsw.WrapperService.StopIt()
+   kohteessa winsw.WrapperService.OnShutdown()
+2022-01-07 17.53.18 - Starting C:\Program Files\nodejs\node.exe  --harmony c:\NodeApps\RetroChat\node_modules\node-windows\lib\wrapper.js --file C:\NodeApps\RetroChat\index.js --scriptoptions= --log "RetroChat wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2022-01-07 17.53.18 - Started 7280
+2022-01-10 08.58.12 - Starting C:\Program Files\nodejs\node.exe  --harmony c:\NodeApps\RetroChat\node_modules\node-windows\lib\wrapper.js --file C:\NodeApps\RetroChat\index.js --scriptoptions= --log "RetroChat wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2022-01-10 08.58.12 - Started 7184
+2022-01-12 17.34.59 - Stopping retrochat.exe
+2022-01-12 17.34.59 - ProcessKill 7184
+2022-01-12 17.34.59 - Shutdown exception
+Message:Järjestelmän sammutus on käynnissä.
+
+Stacktrace:   kohteessa System.Runtime.InteropServices.Marshal.ThrowExceptionForHRInternal(Int32 errorCode, IntPtr errorInfo)
+   kohteessa System.Management.ManagementScope.InitializeGuts(Object o)
+   kohteessa System.Management.ManagementScope.Initialize()
+   kohteessa System.Management.ManagementObjectSearcher.Initialize()
+   kohteessa System.Management.ManagementObjectSearcher.Get()
+   kohteessa winsw.WrapperService.GetChildPids(Int32 pid)
+   kohteessa winsw.WrapperService.StopProcessAndChildren(Int32 pid)
+   kohteessa winsw.WrapperService.StopIt()
+   kohteessa winsw.WrapperService.OnShutdown()
+2022-01-12 17.35.32 - Starting C:\Program Files\nodejs\node.exe  --harmony c:\NodeApps\RetroChat\node_modules\node-windows\lib\wrapper.js --file C:\NodeApps\RetroChat\index.js --scriptoptions= --log "RetroChat wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2022-01-12 17.35.32 - Started 8308
+2022-01-12 18.55.43 - Stopping retrochat.exe
+2022-01-12 18.55.43 - ProcessKill 8308
+2022-01-12 18.55.44 - Shutdown exception
+Message:Järjestelmän sammutus on käynnissä.
+
+Stacktrace:   kohteessa System.Runtime.InteropServices.Marshal.ThrowExceptionForHRInternal(Int32 errorCode, IntPtr errorInfo)
+   kohteessa System.Management.ManagementScope.InitializeGuts(Object o)
+   kohteessa System.Management.ManagementScope.Initialize()
+   kohteessa System.Management.ManagementObjectSearcher.Initialize()
+   kohteessa System.Management.ManagementObjectSearcher.Get()
+   kohteessa winsw.WrapperService.GetChildPids(Int32 pid)
+   kohteessa winsw.WrapperService.StopProcessAndChildren(Int32 pid)
+   kohteessa winsw.WrapperService.StopIt()
+   kohteessa winsw.WrapperService.OnShutdown()
+2022-01-12 18.58.09 - Starting C:\Program Files\nodejs\node.exe  --harmony c:\NodeApps\RetroChat\node_modules\node-windows\lib\wrapper.js --file C:\NodeApps\RetroChat\index.js --scriptoptions= --log "RetroChat wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2022-01-12 18.58.09 - Started 8020
+2022-01-13 18.55.23 - Stopping retrochat.exe
+2022-01-13 18.55.23 - ProcessKill 8020
+2022-01-13 18.55.23 - Found child process: 8104 Name: conhost.exe
+2022-01-13 18.55.23 - Found child process: 9124 Name: node.exe
+2022-01-13 18.55.23 - Stopping process 8104
+2022-01-13 18.55.23 - Send SIGINT 8104
+2022-01-13 18.55.23 - SIGINT to 8104 failed - Killing as fallback
+2022-01-13 18.55.23 - Stopping process 9124
+2022-01-13 18.55.23 - Send SIGINT 9124
+2022-01-13 18.55.23 - SIGINT to 9124 failed - Killing as fallback
+2022-01-13 18.55.23 - Stopping process 8020
+2022-01-13 18.55.23 - Send SIGINT 8020
+2022-01-13 18.55.23 - SIGINT to 8020 failed - Killing as fallback
+2022-01-13 18.55.23 - Finished retrochat.exe
+2022-01-13 18.55.25 - Starting C:\Program Files\nodejs\node.exe  --harmony c:\NodeApps\RetroChat\node_modules\node-windows\lib\wrapper.js --file C:\NodeApps\RetroChat\index.js --scriptoptions= --log "RetroChat wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2022-01-13 18.55.25 - Started 34492
+2022-01-13 18.55.51 - Stopping retrochat.exe
+2022-01-13 18.55.51 - ProcessKill 34492
+2022-01-13 18.55.51 - Found child process: 34536 Name: conhost.exe
+2022-01-13 18.55.51 - Found child process: 34636 Name: node.exe
+2022-01-13 18.55.52 - Stopping process 34536
+2022-01-13 18.55.52 - Send SIGINT 34536
+2022-01-13 18.55.52 - SIGINT to 34536 failed - Killing as fallback
+2022-01-13 18.55.52 - Stopping process 34636
+2022-01-13 18.55.52 - Send SIGINT 34636
+2022-01-13 18.55.52 - SIGINT to 34636 failed - Killing as fallback
+2022-01-13 18.55.52 - Stopping process 34492
+2022-01-13 18.55.52 - Send SIGINT 34492
+2022-01-13 18.55.52 - SIGINT to 34492 failed - Killing as fallback
+2022-01-13 18.55.52 - Finished retrochat.exe
+2022-01-20 17.45.28 - Starting C:\Program Files\nodejs\node.exe  --harmony c:\NodeApps\RetroChat\node_modules\node-windows\lib\wrapper.js --file C:\NodeApps\RetroChat\index.js --scriptoptions= --log "RetroChat wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2022-01-20 17.45.28 - Started 20728
+2022-01-20 17.48.14 - Starting C:\Program Files\nodejs\node.exe  --harmony c:\NodeApps\RetroChat\node_modules\node-windows\lib\wrapper.js --file C:\NodeApps\RetroChat\index.js --scriptoptions= --log "RetroChat wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2022-01-20 17.48.15 - Started 46620
+2022-01-20 17.48.26 - Starting C:\Program Files\nodejs\node.exe  --harmony c:\NodeApps\RetroChat\node_modules\node-windows\lib\wrapper.js --file C:\NodeApps\RetroChat\index.js --scriptoptions= --log "RetroChat wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2022-01-20 17.48.26 - Started 13912
+2022-01-20 17.53.14 - Starting C:\Program Files\nodejs\node.exe  --harmony c:\NodeApps\RetroChat\node_modules\node-windows\lib\wrapper.js --file C:\NodeApps\RetroChat\index.js --scriptoptions= --log "RetroChat wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2022-01-20 17.53.14 - Started 38152
+2022-02-03 12.52.49 - Starting C:\Program Files\nodejs\node.exe  --harmony c:\NodeApps\RetroChat\node_modules\node-windows\lib\wrapper.js --file C:\NodeApps\RetroChat\index.js --scriptoptions= --log "RetroChat wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2022-02-03 12.52.49 - Started 8204
+2022-02-09 23.49.07 - Stopping retrochat.exe
+2022-02-09 23.49.07 - ProcessKill 8204
+2022-02-09 23.49.07 - Shutdown exception
+Message:Järjestelmän sammutus on käynnissä.
+
+Stacktrace:   kohteessa System.Runtime.InteropServices.Marshal.ThrowExceptionForHRInternal(Int32 errorCode, IntPtr errorInfo)
+   kohteessa System.Management.ManagementScope.InitializeGuts(Object o)
+   kohteessa System.Management.ManagementScope.Initialize()
+   kohteessa System.Management.ManagementObjectSearcher.Initialize()
+   kohteessa System.Management.ManagementObjectSearcher.Get()
+   kohteessa winsw.WrapperService.GetChildPids(Int32 pid)
+   kohteessa winsw.WrapperService.StopProcessAndChildren(Int32 pid)
+   kohteessa winsw.WrapperService.StopIt()
+   kohteessa winsw.WrapperService.OnShutdown()
+2022-02-09 23.49.37 - Starting C:\Program Files\nodejs\node.exe  --harmony c:\NodeApps\RetroChat\node_modules\node-windows\lib\wrapper.js --file C:\NodeApps\RetroChat\index.js --scriptoptions= --log "RetroChat wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2022-02-09 23.49.37 - Started 8548
+2022-02-11 08.49.40 - Starting C:\Program Files\nodejs\node.exe  --harmony c:\NodeApps\RetroChat\node_modules\node-windows\lib\wrapper.js --file C:\NodeApps\RetroChat\index.js --scriptoptions= --log "RetroChat wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2022-02-11 08.49.40 - Started 8600
+2022-02-19 14.58.08 - Starting C:\Program Files\nodejs\node.exe  --harmony c:\NodeApps\RetroChat\node_modules\node-windows\lib\wrapper.js --file C:\NodeApps\RetroChat\index.js --scriptoptions= --log "RetroChat wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2022-02-19 14.58.08 - Started 7656
+2022-02-19 19.52.41 - Starting C:\Program Files\nodejs\node.exe  --harmony c:\NodeApps\RetroChat\node_modules\node-windows\lib\wrapper.js --file C:\NodeApps\RetroChat\index.js --scriptoptions= --log "RetroChat wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2022-02-19 19.52.41 - Started 6212
+2022-02-20 22.08.41 - Starting C:\Program Files\nodejs\node.exe  --harmony c:\NodeApps\RetroChat\node_modules\node-windows\lib\wrapper.js --file C:\NodeApps\RetroChat\index.js --scriptoptions= --log "RetroChat wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2022-02-20 22.08.41 - Started 7184
+2022-02-21 08.05.18 - Starting C:\Program Files\nodejs\node.exe  --harmony c:\NodeApps\RetroChat\node_modules\node-windows\lib\wrapper.js --file C:\NodeApps\RetroChat\index.js --scriptoptions= --log "RetroChat wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2022-02-21 08.05.18 - Started 7864
+2022-02-22 07.33.27 - Starting C:\Program Files\nodejs\node.exe  --harmony c:\NodeApps\RetroChat\node_modules\node-windows\lib\wrapper.js --file C:\NodeApps\RetroChat\index.js --scriptoptions= --log "RetroChat wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2022-02-22 07.33.27 - Started 8364
+2022-02-23 17.24.25 - Stopping retrochat.exe
+2022-02-23 17.24.25 - ProcessKill 8364
+2022-02-23 17.24.25 - Shutdown exception
+Message:Järjestelmän sammutus on käynnissä.
+
+Stacktrace:   kohteessa System.Runtime.InteropServices.Marshal.ThrowExceptionForHRInternal(Int32 errorCode, IntPtr errorInfo)
+   kohteessa System.Management.ManagementScope.InitializeGuts(Object o)
+   kohteessa System.Management.ManagementScope.Initialize()
+   kohteessa System.Management.ManagementObjectSearcher.Initialize()
+   kohteessa System.Management.ManagementObjectSearcher.Get()
+   kohteessa winsw.WrapperService.GetChildPids(Int32 pid)
+   kohteessa winsw.WrapperService.StopProcessAndChildren(Int32 pid)
+   kohteessa winsw.WrapperService.StopIt()
+   kohteessa winsw.WrapperService.OnShutdown()
+2022-02-23 17.24.57 - Starting C:\Program Files\nodejs\node.exe  --harmony c:\NodeApps\RetroChat\node_modules\node-windows\lib\wrapper.js --file C:\NodeApps\RetroChat\index.js --scriptoptions= --log "RetroChat wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2022-02-23 17.24.57 - Started 8496
+2022-02-24 07.34.14 - Starting C:\Program Files\nodejs\node.exe  --harmony c:\NodeApps\RetroChat\node_modules\node-windows\lib\wrapper.js --file C:\NodeApps\RetroChat\index.js --scriptoptions= --log "RetroChat wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2022-02-24 07.34.14 - Started 8416
+2022-02-25 07.40.48 - Starting C:\Program Files\nodejs\node.exe  --harmony c:\NodeApps\RetroChat\node_modules\node-windows\lib\wrapper.js --file C:\NodeApps\RetroChat\index.js --scriptoptions= --log "RetroChat wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2022-02-25 07.40.48 - Started 8488
+2022-02-26 10.40.59 - Starting C:\Program Files\nodejs\node.exe  --harmony c:\NodeApps\RetroChat\node_modules\node-windows\lib\wrapper.js --file C:\NodeApps\RetroChat\index.js --scriptoptions= --log "RetroChat wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2022-02-26 10.40.59 - Started 8540
+2022-02-28 18.44.08 - Starting C:\Program Files\nodejs\node.exe  --harmony c:\NodeApps\RetroChat\node_modules\node-windows\lib\wrapper.js --file C:\NodeApps\RetroChat\index.js --scriptoptions= --log "RetroChat wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2022-02-28 18.44.08 - Started 8264
+2022-02-28 21.24.15 - Starting C:\Program Files\nodejs\node.exe  --harmony c:\NodeApps\RetroChat\node_modules\node-windows\lib\wrapper.js --file C:\NodeApps\RetroChat\index.js --scriptoptions= --log "RetroChat wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2022-02-28 21.24.15 - Started 8128
+2022-03-03 08.30.20 - Starting C:\Program Files\nodejs\node.exe  --harmony c:\NodeApps\RetroChat\node_modules\node-windows\lib\wrapper.js --file C:\NodeApps\RetroChat\index.js --scriptoptions= --log "RetroChat wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2022-03-03 08.30.21 - Started 8224
+2022-03-04 08.29.35 - Starting C:\Program Files\nodejs\node.exe  --harmony c:\NodeApps\RetroChat\node_modules\node-windows\lib\wrapper.js --file C:\NodeApps\RetroChat\index.js --scriptoptions= --log "RetroChat wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2022-03-04 08.29.35 - Started 8064
+2022-03-08 18.43.42 - Starting C:\Program Files\nodejs\node.exe  --harmony c:\NodeApps\RetroChat\node_modules\node-windows\lib\wrapper.js --file C:\NodeApps\RetroChat\index.js --scriptoptions= --log "RetroChat wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2022-03-08 18.43.42 - Started 8904
+2022-03-09 19.41.03 - Stopping retrochat.exe
+2022-03-09 19.41.03 - ProcessKill 8904
+2022-03-09 19.41.03 - Shutdown exception
+Message:Järjestelmän sammutus on käynnissä.
+
+Stacktrace:   kohteessa System.Runtime.InteropServices.Marshal.ThrowExceptionForHRInternal(Int32 errorCode, IntPtr errorInfo)
+   kohteessa System.Management.ManagementScope.InitializeGuts(Object o)
+   kohteessa System.Management.ManagementScope.Initialize()
+   kohteessa System.Management.ManagementObjectSearcher.Initialize()
+   kohteessa System.Management.ManagementObjectSearcher.Get()
+   kohteessa winsw.WrapperService.GetChildPids(Int32 pid)
+   kohteessa winsw.WrapperService.StopProcessAndChildren(Int32 pid)
+   kohteessa winsw.WrapperService.StopIt()
+   kohteessa winsw.WrapperService.OnShutdown()
+2022-03-09 19.41.40 - Starting C:\Program Files\nodejs\node.exe  --harmony c:\NodeApps\RetroChat\node_modules\node-windows\lib\wrapper.js --file C:\NodeApps\RetroChat\index.js --scriptoptions= --log "RetroChat wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2022-03-09 19.41.40 - Started 7980
+2022-03-09 19.41.57 - Stopping retrochat.exe
+2022-03-09 19.41.57 - ProcessKill 7980
+2022-03-09 19.41.58 - Shutdown exception
+Message:Järjestelmän sammutus on käynnissä.
+
+Stacktrace:   kohteessa System.Runtime.InteropServices.Marshal.ThrowExceptionForHRInternal(Int32 errorCode, IntPtr errorInfo)
+   kohteessa System.Management.ManagementScope.InitializeGuts(Object o)
+   kohteessa System.Management.ManagementScope.Initialize()
+   kohteessa System.Management.ManagementObjectSearcher.Initialize()
+   kohteessa System.Management.ManagementObjectSearcher.Get()
+   kohteessa winsw.WrapperService.GetChildPids(Int32 pid)
+   kohteessa winsw.WrapperService.StopProcessAndChildren(Int32 pid)
+   kohteessa winsw.WrapperService.StopIt()
+   kohteessa winsw.WrapperService.OnShutdown()
+2022-03-10 07.37.48 - Starting C:\Program Files\nodejs\node.exe  --harmony c:\NodeApps\RetroChat\node_modules\node-windows\lib\wrapper.js --file C:\NodeApps\RetroChat\index.js --scriptoptions= --log "RetroChat wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2022-03-10 07.37.48 - Started 7264
+2022-03-11 07.29.35 - Starting C:\Program Files\nodejs\node.exe  --harmony c:\NodeApps\RetroChat\node_modules\node-windows\lib\wrapper.js --file C:\NodeApps\RetroChat\index.js --scriptoptions= --log "RetroChat wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2022-03-11 07.29.35 - Started 7980
+2022-03-13 09.55.58 - Starting C:\Program Files\nodejs\node.exe  --harmony c:\NodeApps\RetroChat\node_modules\node-windows\lib\wrapper.js --file C:\NodeApps\RetroChat\index.js --scriptoptions= --log "RetroChat wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2022-03-13 09.55.58 - Started 8364
+2022-03-15 00.03.02 - Stopping retrochat.exe
+2022-03-15 00.03.02 - ProcessKill 8364
+2022-03-15 00.03.02 - Shutdown exception
+Message:Järjestelmän sammutus on käynnissä.
+
+Stacktrace:   kohteessa System.Runtime.InteropServices.Marshal.ThrowExceptionForHRInternal(Int32 errorCode, IntPtr errorInfo)
+   kohteessa System.Management.ManagementScope.InitializeGuts(Object o)
+   kohteessa System.Management.ManagementScope.Initialize()
+   kohteessa System.Management.ManagementObjectSearcher.Initialize()
+   kohteessa System.Management.ManagementObjectSearcher.Get()
+   kohteessa winsw.WrapperService.GetChildPids(Int32 pid)
+   kohteessa winsw.WrapperService.StopProcessAndChildren(Int32 pid)
+   kohteessa winsw.WrapperService.StopIt()
+   kohteessa winsw.WrapperService.OnShutdown()
+2022-03-15 00.03.37 - Starting C:\Program Files\nodejs\node.exe  --harmony c:\NodeApps\RetroChat\node_modules\node-windows\lib\wrapper.js --file C:\NodeApps\RetroChat\index.js --scriptoptions= --log "RetroChat wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2022-03-15 00.03.37 - Started 8116
+2022-03-15 00.03.42 - Stopping retrochat.exe
+2022-03-15 00.03.42 - ProcessKill 8116
+2022-03-15 00.03.42 - Shutdown exception
+Message:Järjestelmän sammutus on käynnissä.
+
+Stacktrace:   kohteessa System.Runtime.InteropServices.Marshal.ThrowExceptionForHRInternal(Int32 errorCode, IntPtr errorInfo)
+   kohteessa System.Management.ManagementScope.InitializeGuts(Object o)
+   kohteessa System.Management.ManagementScope.Initialize()
+   kohteessa System.Management.ManagementObjectSearcher.Initialize()
+   kohteessa System.Management.ManagementObjectSearcher.Get()
+   kohteessa winsw.WrapperService.GetChildPids(Int32 pid)
+   kohteessa winsw.WrapperService.StopProcessAndChildren(Int32 pid)
+   kohteessa winsw.WrapperService.StopIt()
+   kohteessa winsw.WrapperService.OnShutdown()
+2022-03-15 08.44.22 - Starting C:\Program Files\nodejs\node.exe  --harmony c:\NodeApps\RetroChat\node_modules\node-windows\lib\wrapper.js --file C:\NodeApps\RetroChat\index.js --scriptoptions= --log "RetroChat wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2022-03-15 08.44.22 - Started 7664
+2022-03-17 10.03.31 - Stopping retrochat.exe
+2022-03-17 10.03.31 - ProcessKill 7664
+2022-03-17 10.03.31 - Shutdown exception
+Message:Järjestelmän sammutus on käynnissä.
+
+Stacktrace:   kohteessa System.Runtime.InteropServices.Marshal.ThrowExceptionForHRInternal(Int32 errorCode, IntPtr errorInfo)
+   kohteessa System.Management.ManagementScope.InitializeGuts(Object o)
+   kohteessa System.Management.ManagementScope.Initialize()
+   kohteessa System.Management.ManagementObjectSearcher.Initialize()
+   kohteessa System.Management.ManagementObjectSearcher.Get()
+   kohteessa winsw.WrapperService.GetChildPids(Int32 pid)
+   kohteessa winsw.WrapperService.StopProcessAndChildren(Int32 pid)
+   kohteessa winsw.WrapperService.StopIt()
+   kohteessa winsw.WrapperService.OnShutdown()
+2022-03-17 10.31.44 - Starting C:\Program Files\nodejs\node.exe  --harmony c:\NodeApps\RetroChat\node_modules\node-windows\lib\wrapper.js --file C:\NodeApps\RetroChat\index.js --scriptoptions= --log "RetroChat wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2022-03-17 10.31.44 - Started 8168
+2022-03-19 12.46.18 - Starting C:\Program Files\nodejs\node.exe  --harmony c:\NodeApps\RetroChat\node_modules\node-windows\lib\wrapper.js --file C:\NodeApps\RetroChat\index.js --scriptoptions= --log "RetroChat wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2022-03-19 12.46.18 - Started 8476
+2022-03-22 07.54.32 - Starting C:\Program Files\nodejs\node.exe  --harmony c:\NodeApps\RetroChat\node_modules\node-windows\lib\wrapper.js --file C:\NodeApps\RetroChat\index.js --scriptoptions= --log "RetroChat wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2022-03-22 07.54.32 - Started 7860
+2022-03-25 07.23.28 - Starting C:\Program Files\nodejs\node.exe  --harmony c:\NodeApps\RetroChat\node_modules\node-windows\lib\wrapper.js --file C:\NodeApps\RetroChat\index.js --scriptoptions= --log "RetroChat wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2022-03-25 07.23.28 - Started 8476
+2022-03-28 07.37.58 - Starting C:\Program Files\nodejs\node.exe  --harmony c:\NodeApps\RetroChat\node_modules\node-windows\lib\wrapper.js --file C:\NodeApps\RetroChat\index.js --scriptoptions= --log "RetroChat wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2022-03-28 07.37.58 - Started 7908
+2022-03-30 20.18.31 - Starting C:\Program Files\nodejs\node.exe  --harmony c:\NodeApps\RetroChat\node_modules\node-windows\lib\wrapper.js --file C:\NodeApps\RetroChat\index.js --scriptoptions= --log "RetroChat wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2022-03-30 20.18.31 - Started 8364
+2022-04-01 07.42.19 - Starting C:\Program Files\nodejs\node.exe  --harmony c:\NodeApps\RetroChat\node_modules\node-windows\lib\wrapper.js --file C:\NodeApps\RetroChat\index.js --scriptoptions= --log "RetroChat wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2022-04-01 07.42.19 - Started 8604
+2022-04-03 10.28.42 - Starting C:\Program Files\nodejs\node.exe  --harmony c:\NodeApps\RetroChat\node_modules\node-windows\lib\wrapper.js --file C:\NodeApps\RetroChat\index.js --scriptoptions= --log "RetroChat wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2022-04-03 10.28.43 - Started 8828
+2022-04-03 12.31.27 - Starting C:\Program Files\nodejs\node.exe  --harmony c:\NodeApps\RetroChat\node_modules\node-windows\lib\wrapper.js --file C:\NodeApps\RetroChat\index.js --scriptoptions= --log "RetroChat wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2022-04-03 12.31.27 - Started 8056
+2022-04-05 19.43.50 - Starting C:\Program Files\nodejs\node.exe  --harmony c:\NodeApps\RetroChat\node_modules\node-windows\lib\wrapper.js --file C:\NodeApps\RetroChat\index.js --scriptoptions= --log "RetroChat wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2022-04-05 19.43.50 - Started 8744
+2022-04-05 20.07.07 - Stopping retrochat.exe
+2022-04-05 20.07.07 - ProcessKill 8744
+2022-04-05 20.07.07 - Shutdown exception
+Message:Järjestelmän sammutus on käynnissä.
+
+Stacktrace:   kohteessa System.Runtime.InteropServices.Marshal.ThrowExceptionForHRInternal(Int32 errorCode, IntPtr errorInfo)
+   kohteessa System.Management.ManagementScope.InitializeGuts(Object o)
+   kohteessa System.Management.ManagementScope.Initialize()
+   kohteessa System.Management.ManagementObjectSearcher.Initialize()
+   kohteessa System.Management.ManagementObjectSearcher.Get()
+   kohteessa winsw.WrapperService.GetChildPids(Int32 pid)
+   kohteessa winsw.WrapperService.StopProcessAndChildren(Int32 pid)
+   kohteessa winsw.WrapperService.StopIt()
+   kohteessa winsw.WrapperService.OnShutdown()
+2022-04-05 20.07.37 - Starting C:\Program Files\nodejs\node.exe  --harmony c:\NodeApps\RetroChat\node_modules\node-windows\lib\wrapper.js --file C:\NodeApps\RetroChat\index.js --scriptoptions= --log "RetroChat wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2022-04-05 20.07.37 - Started 7520
+2022-04-07 07.45.29 - Starting C:\Program Files\nodejs\node.exe  --harmony c:\NodeApps\RetroChat\node_modules\node-windows\lib\wrapper.js --file C:\NodeApps\RetroChat\index.js --scriptoptions= --log "RetroChat wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2022-04-07 07.45.29 - Started 8516
+2022-04-08 07.26.44 - Starting C:\Program Files\nodejs\node.exe  --harmony c:\NodeApps\RetroChat\node_modules\node-windows\lib\wrapper.js --file C:\NodeApps\RetroChat\index.js --scriptoptions= --log "RetroChat wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2022-04-08 07.26.44 - Started 8896
